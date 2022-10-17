@@ -390,12 +390,12 @@ class GoogleDriveHelper:
                     msg += f'\n<b>├ Files: </b>{self.__total_files}'
                 buttons = ButtonMaker()
                 durl = short_url(durl)
-                buttons.buildbutton("☁️ Drive Link", durl)
+                buttons.buildbutton("💾 Download Link", durl)
                 if INDEX_URL is not None:
                     url_path = rquote(f'{meta.get("name")}', safe='')
                     url = f'{INDEX_URL}/{url_path}/'
                     url = short_url(url)
-                    buttons.buildbutton("⚡ Index Link", url)
+                    buttons.buildbutton("📌 Direct Link", url)
             else:
                 file = self.__copyFile(meta.get('id'), parent_id)
                 if EMOJI_THEME is True:
@@ -405,7 +405,7 @@ class GoogleDriveHelper:
                 durl = self.__G_DRIVE_BASE_DOWNLOAD_URL.format(file.get("id"))
                 buttons = ButtonMaker()
                 durl = short_url(durl)
-                buttons.buildbutton("☁️ Drive Link", durl)
+                buttons.buildbutton("💾 Download Link", durl)
                 if mime_type is None:
                     mime_type = 'File'
                 if EMOJI_THEME is True:
@@ -418,11 +418,11 @@ class GoogleDriveHelper:
                     url_path = rquote(f'{file.get("name")}', safe='')
                     url = f'{INDEX_URL}/{url_path}'
                     url = short_url(url)
-                    buttons.buildbutton("⚡ Index Link", url)
+                    buttons.buildbutton("🏷 View Mode", url)
                     if VIEW_LINK:
                         urls = f'{INDEX_URL}/{url_path}?a=view'
                         urls = short_url(urls)
-                        buttons.buildbutton("🌐 View Link", urls)
+                        buttons.buildbutton("🏷 View Mode", urls)
             if BUTTON_FOUR_NAME is not None and BUTTON_FOUR_URL is not None:
                 buttons.buildbutton(f"{BUTTON_FOUR_NAME}", f"{BUTTON_FOUR_URL}")
             if BUTTON_FIVE_NAME is not None and BUTTON_FIVE_URL is not None:

@@ -418,7 +418,7 @@ class GoogleDriveHelper:
                     url_path = rquote(f'{file.get("name")}', safe='')
                     url = f'{INDEX_URL}/{url_path}'
                     url = short_url(url)
-                    buttons.buildbutton("🏷 View Mode", url)
+                    buttons.buildbutton("📌 Direct Link", url)
                     if VIEW_LINK:
                         urls = f'{INDEX_URL}/{url_path}?a=view'
                         urls = short_url(urls)
