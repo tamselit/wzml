@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "wibuelite",
+  "private_key_id": "f0df66af8563252ce375bb01f364ccbcf6a74ebf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5mjymho+JGWga\n9KPDaor1XW/7LH6eLlLfp/1ufVRcSmhGnxmGUJDRYf1LLHza/GoOwTIw8J4Z9Zz6\nlpgbBmrv1/ZJoEGAx3j6V5QpPpc4nQlXl9iDO6XLZiZTHNcbdKdWdy1MiYWiZErc\na1tk+jEUNl+AaboqKFfgj/LpxhWoJlYwiD7onzGNxwOnknpVgunvcYIENNow3UyP\nHjw1ft68clv1cOgeq0qaycEh2yDTomB1b5w5CSycXoP3VVHV0bNFei9dKMtPOyOg\nwEh6xgN9P+ejAVe8mIfaTHZavAGDwAmPXL5gbppdCx02RzbVV27OPSKPYbGl2kVz\nMpV9XFl3AgMBAAECggEANgMso0mFe+Bo629GORhIWB9Y9z97mYzhkTTSC9VtN25v\n6h1i0DOh8U0S6U2JCDFsq96NPLDJUcSoakRo/3Reqm2uvr5kUZW7Hx9dfqM4XsFU\ndqk52PcCyK5xeL5r2xGXoRINnLhoq1mEb6DOeBRXNAqewEAEbUBQUomRp3Z91vDR\nlvshC/ZHMpBjsv7jDMXn/KgyzTItpG+4DH56tLDxL2xsmyKJhGVXXrF9z9rSsN/9\nRgUilJv8/Ge3JT0VN8N9sYt5v7EU+puBpoyyx1obiDp1e3kzo+7ma65Jcb+rg2tZ\n8s1ipHgFwuk1hmXgZ78MbABLUXmj8BwzvkDLIqA8AQKBgQDxyUlyZ1w31SP7T/iF\nOZdZXdjm3iuuy5nBUW+FFX7B21uO8hGFqpjhzzebryL4V1mp19voIfyqoYxcmUGR\nlb1DGXKjJid6SMZ4MCr+kgfMviY8kfQ1KhC5QcpC+Lcggb67HVUSIwg3PsbO7TJ4\nedxXrMYa1Bbv5lIm5piMmLCcswKBgQDEg2xvoZfD6UlkN1oXUKHWHkPH9kqHAu/V\nK8T0Sl4Z3h1MDXph7kngJoMo3cVwfVJnEmB5VA+1MirN2fCamfMTimcubWj8QDiV\n74gQFT2+4E718KOygOK6ewXIbexuthnTMe544tc3X8iz3+hpIKR77AhT8xB7mpcZ\n5hkMto76LQKBgC8EPUwJ3VzeDYkpG+KMOGogXbVHLqdm4Bc/hrgSXfvEdCFv4Qhl\nDCWc7etQOzSfh8gHObQCJ+fmUi0PgDiXLZ6GrEwddz/INw/YDgRC0VF3CGhu2VYd\nP/NGX9Z2FuYzVKt+ILTOKyLTCkXiyhWzXK2P41YEOBGecAswfCma530RAoGAK2se\nOkvpzE9u98WDEkOufjCRqUyxisMLWn4hNhh4Uh7ROkyADcMob24S7KSTSxdlbYCR\n8Dyye8ZpzrGoh4AcROT/hzKFT7agyf/ygBsxWUsWJyDUCkyPy8QCsxYWdx+k9RTD\nK9Jy2rk/Dv8ZyqB7tyWfcWzy51xwpjhAsJ5lWMECgYEAzMS2b+t/Kil1fSlg1+BO\nl86WkLT9yR/YmjeiT+aNL2Fca+EQ/IudxHM37oBFNaucVCPnhSqz7z+22j8lKAkp\nYD7rU+VNUy4ezlojyfCxOrKqzGfShVGOn+loKoyrheuT4YmRI40TL2hnaEcGaOHT\nCrMcOY1JMWpEp8MPgJ66BNU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-5j8yzymzkcqwru4tdoxxa36qaa@wibuelite.iam.gserviceaccount.com",
+  "client_id": "115252312676442678731",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-5j8yzymzkcqwru4tdoxxa36qaa%40wibuelite.iam.gserviceaccount.com"
+}
